@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Sergio Gridelli
+  pic: 1.png
+  position: Presidente
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Stefano Teodorani
+  pic: 2.png
+  position: Vice Presidente
   social:
     - title: twitter
       url: #
@@ -36,9 +36,42 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Christian Galeffi
+  pic: 3.png
+  position: Consigliere
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Davide Pedrelli
+  pic: 4.png
+  position: Consigliere
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Marco Sgarzi
+  pic: 5.png
+  position: Consigliere
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Carlo Zamagni
+  pic: 6.png
+  position: Consigliere
   social:
     - title: twitter
       url: #
