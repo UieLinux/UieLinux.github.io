@@ -99,3 +99,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+costituzione: /static/UIE_Atto-Costitutivo.pdf
+statuto: /statuto/UIE_Statuto.pdf
