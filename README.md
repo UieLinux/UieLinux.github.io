@@ -1,11 +1,12 @@
-Agency Jekyll theme
+uielinux.org
 ====================
+[ ![Codeship Status for UieLinux/UieLinux.github.io](https://codeship.com/projects/0885d5b0-c1a5-0132-1a88-3eb2295b72b3/status?branch=master)](https://codeship.com/projects/73585)
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+Theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
 # How to use
 
-###Portfolio 
+###Portfolio
 
 Portfolio projects are in '/_posts'
 
