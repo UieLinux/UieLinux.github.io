@@ -1,5 +1,6 @@
-url: https://uielinux.github.io
-baseurl: 
+#url: https://uielinux.github.io
+url: http://uielinux.org
+baseurl:
 
 # Site settings
 title: UieLinux
@@ -9,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: ff6600
-  secondary: fec503  
+  secondary: fec503
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -19,33 +20,33 @@ people:
   position: Presidente
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/giowile
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/sergiogridelli
+    - title: google-plus
+      url: https://plus.google.com/u/0/+SergioGridelli
 
 - name: Stefano Teodorani
   pic: 2.png
   position: Vice Presidente
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/teopost
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.facebook.com/steodorani
+    - title: google-plus
+      url: https://plus.google.com/+StefanoTeodorani
 
 - name: Christian Galeffi
   pic: 3.png
   position: Consigliere
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/gallochri
     - title: facebook
-      url: #
+      url: https://www.facebook.com/gallochri
     - title: google-plus
-      url: #
+      url: https://plus.google.com/u/0/+ChristianGaleffi
 
 - name: Davide Pedrelli
   pic: 4.png
@@ -74,11 +75,9 @@ people:
   position: Consigliere
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/czamagni
     - title: google-plus
-      url: #
+      url: https://plus.google.com/u/0/+CarloZamagni/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
