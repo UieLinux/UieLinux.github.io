@@ -101,3 +101,32 @@ permalink: pretty
 
 costituzione: /static/UIE_Atto-Costitutivo.pdf
 statuto: /statuto/UIE_Statuto.pdf
+
+# Projects
+projects:
+  - title: WeAreOpen 2013
+    subtitle: Giornata dei saperi liberati
+    layout: default
+    modal-id: 1
+    date: 2013-11-9
+    img: dreams.png
+    thumbnail: weareopen_thumbnail.png
+    alt: image-alt
+    project-date: November 2013
+    client: Start Bootstrap
+    category: Web Development
+    description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+    external-url: http://www.weareopen.info/
+  - title: Coding For School
+    subtitle: La scuola è tutto un programma
+    layout: default
+    modal-id: 2
+    date: 2014-12-28
+    img: escape.png
+    thumbnail: CFS_thumbnail.png
+    alt: image-alt
+    project-date: December 2014
+    client: Start Bootstrap
+    category: Web Development
+    description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+    external-url: http://www.codingforschool.com/
