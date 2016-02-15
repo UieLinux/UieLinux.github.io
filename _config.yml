@@ -100,7 +100,7 @@ markdown: kramdown
 permalink: pretty
 
 costituzione: /static/UIE_Atto-Costitutivo.pdf
-statuto: /statuto/UIE_Statuto.pdf
+statuto: /static/statuto_associativo_UIE.pdf
 
 # Projects
 projects:
