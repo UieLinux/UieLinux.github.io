@@ -15,16 +15,17 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Sergio Gridelli
-  pic: 1.png
+
+- name: Davide Pedrelli
+  pic: 4.png
   position: Presidente
   social:
     - title: twitter
-      url: https://twitter.com/giowile
+      url: #
     - title: facebook
-      url: https://www.facebook.com/sergiogridelli
+      url: #
     - title: google-plus
-      url: https://plus.google.com/u/0/+SergioGridelli
+      url: #
 
 - name: Stefano Teodorani
   pic: 2.png
@@ -47,17 +48,6 @@ people:
       url: https://www.facebook.com/gallochri
     - title: google-plus
       url: https://plus.google.com/u/0/+ChristianGaleffi
-
-- name: Davide Pedrelli
-  pic: 4.png
-  position: Consigliere
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 - name: Marco Sgarzi
   pic: 5.png
